@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_converter_title">Currency Converter</string>
+    <string name="from">From</string>
+    <string name="select_country">Select Country</string>
+    <string name="american_dollar_usd">American Dollar (USD)</string>
+    <string name="amount">Amount</string>
+    <string name="to">To</string>
+    <string name="egyptian_pound_egp">Egyptian Pound (EGP)</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="convert">CONVERT</string>
+    <string name="result">Result</string>
+    <string name="share">Share</string>
+    <string name="settings">Settings</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="destination_screen">Destination Screen</string>
+    <string name="call">CALL</string>
+    <string name="message">MESSAGE</string>
+    <string name="browser">BROWSER</string>
+</resources>
